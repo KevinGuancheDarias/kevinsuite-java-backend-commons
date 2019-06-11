@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.kevinguanchedarias.kevinsuite</groupId>
 	<artifactId>backend-commons</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>Kevinsuite CommonBackend</name>
 	<description>Has Common backend things</description>
 
